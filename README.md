@@ -5,7 +5,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 ## Papers
 
 ### Generated Data Guided Post-Training
-[2503] [Visual-RFT: Visual Reinforcement Fine-Tunin](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)  [Code](https://github.com/Liuziyu77/Visual-RFT)
+[2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)
 
 
 
@@ -16,3 +16,6 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 
 ### MLLM Reward Model Design
+
+## Projects
+[R1-V](https://github.com/Deep-Agent/R1-V) 
