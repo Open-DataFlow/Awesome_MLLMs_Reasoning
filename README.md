@@ -117,20 +117,20 @@ In this repository, we will continuously update the latest papers, slides, and o
 [2502] [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301) (Qwen) [Code](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-7B)
 
 ## Open-Source Projects
-[R1-V] [Code](https://github.com/Deep-Agent/R1-V)![](https://img.shields.io/badge/github-2025.02-red)
+[R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V)![](https://img.shields.io/badge/github-2025.02-red)
 
-[EasyR1] [Code](https://github.com/hiyouga/EasyR1)![](https://img.shields.io/badge/github-2025.02-red)  
+[EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[R1-Onevision] [Code](https://github.com/Fancy-MLLM/R1-Onevision)![](https://img.shields.io/badge/github-2025.02-red)  
+[R1-Onevision：An Open-Source Multimodal Large Language Model Capable of Deep Reasoning] [Code](https://github.com/Fancy-MLLM/R1-Onevision)![](https://img.shields.io/badge/github-2025.02-red)  
 
 [LMM-R1] [Code](https://github.com/TideDra/lmm-r1)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[VLM-R1] [Code](https://github.com/om-ai-lab/VLM-R1)![](https://img.shields.io/badge/github-2025.02-red)  
+[VLM-R1: A stable and generalizable R1-style Large Vision-Language Model] [Code](https://github.com/om-ai-lab/VLM-R1)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[Open-r1-multimodal] [Code](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)![](https://img.shields.io/badge/github-2025.02-red)  
+[Multi-modal Open R1] [Code](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[Video-R1] [Code](https://github.com/tulerfeng/Video-R1)![](https://img.shields.io/badge/github-2025.02-red)  
+[Video-R1: Towards Super Reasoning Ability in Video Understanding] [Code](https://github.com/tulerfeng/Video-R1)![](https://img.shields.io/badge/github-2025.02-red)  
 
 [Open-R1-Video] [Code](https://github.com/Wang-Xiaodong1899/Open-R1-Video)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[R1-Vision] [Code](https://github.com/yuyq96/R1-Vision)![](https://img.shields.io/badge/github-2025.02-red)  
+[R1-Vision: Let's first take a look at the image] [Code](https://github.com/yuyq96/R1-Vision)![](https://img.shields.io/badge/github-2025.02-red)  
