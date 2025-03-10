@@ -2,9 +2,23 @@
 
 In this repository, we will continuously update the latest papers, slides, and other valuable resources that advance MLLM reasoning, making learning more efficient for everyone!
 
+<!-- omit in toc -->
+## 📢 Updates
+
+- **2025.03**: We released this repo. Feel free to cite or open pull requests.
+
+<!-- omit in toc -->
+## 📚 Table of Contents
+- [Awesome_MLLMs_Reasoning](#awesome_mllms_reasoning)
+  - [1.Generated Data Guided Post-Training](#1generated-data-guided-post-training)
+  - [2.Test-time Scaling](#2test-time-scaling)
+  - [3.Benchmarks](#3benchmarks)
+  - [4.MLLM Reward Model Design](#4mllm-reward-model-design)
+- [Open-Source Projects](#open-source-projects)
+
 ## Papers
 
-### Generated Data Guided Post-Training
+### 1.Generated Data Guided Post-Training
 [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)
 
 [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) (Shanghai AI Lab)
@@ -56,7 +70,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 [2306] [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195) [Code]()
 
 
-### Test-time Scaling
+### 2.Test-time Scaling
 [2502] [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://arxiv.org/pdf/2502.02339) [Code]()
 
 [2502] [MLLMS KNOW WHERE TO LOOK: TRAINING-FREE PERCEPTION OF SMALL VISUAL DETAILS WITH MULTIMODAL LLMS](https://arxiv.org/pdf/2502.17422) [Code]()
@@ -73,7 +87,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 [2402] [V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/pdf/2402.06457) [Code]()
 
-### Benchmarks
+### 3.Benchmarks
 
 [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)  
 
@@ -91,7 +105,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 [2312] [V∗](https://arxiv.org/pdf/2312.14135)  [Code]() 
 
-### MLLM Reward Model Design
+### 4.MLLM Reward Model Design
 [2503] [Process-based Self-Rewarding Language Models](https://arxiv.org/pdf/2503.03746) (NJU) [Code](https://github.com/Shimao-Zhang/Process-Self-Rewarding)  
 
 [2502] [Self-Consistency of the Internal Reward Models Improves Self-Rewarding Language Models](https://arxiv.org/pdf/2502.08922) (FDU)
@@ -102,7 +116,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 [2502] [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301) (Qwen) [Code](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-7B)
 
-## Projects
+## Open-Source Projects
 [R1-V](https://github.com/Deep-Agent/R1-V) 
 
 [EasyR1](https://github.com/hiyouga/EasyR1)  
