@@ -14,7 +14,7 @@ In this repository, we will continuously update the latest papers, slides, and o
   - [2.Test-time Scaling](#-2test-time-scaling)
   - [3.Benchmarks](#-3benchmarks)
   - [4.MLLM Reward Model Design](#-4mllm-reward-model-design)
-- [Open-Source Projects](#-open-source-projects)
+- [Open-Source Projects](#️-open-source-projects)
 
 ## 📖 Papers
 
