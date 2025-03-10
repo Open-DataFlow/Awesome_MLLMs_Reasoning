@@ -19,7 +19,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 ## Papers
 
 ### 1.Generated Data Guided Post-Training
-[2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)![](https://img.shields.io/badge/pdf-2025.03-red)
+[2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)![](https://img.shields.io/badge/github-2025.03-red)
 
 [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) (Shanghai AI Lab)
 
@@ -117,20 +117,20 @@ In this repository, we will continuously update the latest papers, slides, and o
 [2502] [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301) (Qwen) [Code](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-7B)
 
 ## Open-Source Projects
-[R1-V](https://github.com/Deep-Agent/R1-V) 
+[R1-V](https://github.com/Deep-Agent/R1-V)![](https://img.shields.io/badge/github-2025.02-red)
 
-[EasyR1](https://github.com/hiyouga/EasyR1)  
+[EasyR1](https://github.com/hiyouga/EasyR1)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[R1-Onevision](https://github.com/Fancy-MLLM/R1-Onevision)  
+[R1-Onevision](https://github.com/Fancy-MLLM/R1-Onevision)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[LMM-R1](https://github.com/TideDra/lmm-r1)  
+[LMM-R1](https://github.com/TideDra/lmm-r1)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[VLM-R1](https://github.com/om-ai-lab/VLM-R1)  
+[VLM-R1](https://github.com/om-ai-lab/VLM-R1)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[Open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  
+[Open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[Video-R1](https://github.com/tulerfeng/Video-R1)  
+[Video-R1](https://github.com/tulerfeng/Video-R1)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[Open-R1-Video](https://github.com/Wang-Xiaodong1899/Open-R1-Video)  
+[Open-R1-Video](https://github.com/Wang-Xiaodong1899/Open-R1-Video)![](https://img.shields.io/badge/github-2025.02-red)  
 
-[R1-Vision](https://github.com/yuyq96/R1-Vision)  
+[R1-Vision](https://github.com/yuyq96/R1-Vision)![](https://img.shields.io/badge/github-2025.02-red)  
