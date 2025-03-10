@@ -10,15 +10,21 @@ In this repository, we will continuously update the latest papers, slides, and o
 <!-- omit in toc -->
 ## 📚 Table of Contents
 - [Awesome_MLLMs_Reasoning](#-awesome_mllms_reasoning)
+  - 
   - [1.Generated Data Guided Post-Training](#-1generated-data-guided-post-training)
   - [2.Test-time Scaling](#-2test-time-scaling)
   - [3.Benchmarks](#-3benchmarks)
   - [4.MLLM Reward Model Design](#-4mllm-reward-model-design)
 - [Open-Source Projects](#️-open-source-projects)
 
+
+
 ## 📖 Papers
 
-### 📌 1.Generated Data Guided Post-Training
+### 📝  1.Technical Report
+[2501] [KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://arxiv.org/pdf/2501.12599) (Kimi Team)
+
+### 📌 2.Generated Data Guided Post-Training
 [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)![](https://img.shields.io/badge/github-2025.03-red)
 
 [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) (Shanghai AI Lab) [Code](https://github.com/PhoenixZ810/OmniAlign-V)
@@ -30,8 +36,6 @@ In this repository, we will continuously update the latest papers, slides, and o
 [2502] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models via Reinforcement Learning](https://arxiv.org/pdf/2502.19634) 
 
 [2501] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step](https://arxiv.org/pdf/2501.13926) (CUHK) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
-
-[2501] [KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://arxiv.org/pdf/2501.12599) (Kimi Team)
 
 [2501] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/pdf/2501.04686) 
 
@@ -69,7 +73,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 [⬆️ Back to Top](#-table-of-contents)
 
-### 🚀 2.Test-time Scaling
+### 🚀 3.Test-time Scaling
 [2502] [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://arxiv.org/pdf/2502.02339) 
 
 [2502] [MLLMS KNOW WHERE TO LOOK: TRAINING-FREE PERCEPTION OF SMALL VISUAL DETAILS WITH MULTIMODAL LLMS](https://arxiv.org/pdf/2502.17422) 
@@ -87,7 +91,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 [2402] [V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/pdf/2402.06457) 
 
 [⬆️ Back to Top](#-table-of-contents)
-### 📊 3.Benchmarks
+### 📊 4.Benchmarks
 
 [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)  
 
@@ -106,7 +110,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 [2312] [V∗](https://arxiv.org/pdf/2312.14135)   
 
 [⬆️ Back to Top](#-table-of-contents)
-### 🎯 4.MLLM Reward Model Design
+### 🎯 5.MLLM Reward Model Design
 [2503] [Process-based Self-Rewarding Language Models](https://arxiv.org/pdf/2503.03746) (NJU) [Code](https://github.com/Shimao-Zhang/Process-Self-Rewarding)  
 
 [2502] [Self-Consistency of the Internal Reward Models Improves Self-Rewarding Language Models](https://arxiv.org/pdf/2502.08922) (FDU)
