@@ -9,12 +9,12 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 <!-- omit in toc -->
 ## 📚 Table of Contents
-- [Awesome_MLLMs_Reasoning](#awesome_mllms_reasoning)
-  - [1.Generated Data Guided Post-Training](#1generated-data-guided-post-training)
-  - [2.Test-time Scaling](#2test-time-scaling)
-  - [3.Benchmarks](#3benchmarks)
-  - [4.MLLM Reward Model Design](#4mllm-reward-model-design)
-- [Open-Source Projects](#open-source-projects)
+- [Awesome_MLLMs_Reasoning](#-awesome_mllms_reasoning)
+  - [1.Generated Data Guided Post-Training](#-1generated-data-guided-post-training)
+  - [2.Test-time Scaling](#-2test-time-scaling)
+  - [3.Benchmarks](#-3benchmarks)
+  - [4.MLLM Reward Model Design](#-4mllm-reward-model-design)
+- [Open-Source Projects](#-open-source-projects)
 
 ## 📖 Papers
 
