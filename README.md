@@ -92,6 +92,27 @@ In this repository, we will continuously update the latest papers, slides, and o
 [2312] [V∗](https://arxiv.org/pdf/2312.14135)  [Code]() 
 
 ### MLLM Reward Model Design
+[2503] [Process-based Self-Rewarding Language Models](https://arxiv.org/pdf/2503.03746) (NJU) [Code](https://github.com/Shimao-Zhang/Process-Self-Rewarding)  
+
+[2502] [Self-Consistency of the Internal Reward Models Improves Self-Rewarding Language Models](https://arxiv.org/pdf/2502.08922) (FDU)
+
+[2502] [Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems](https://arxiv.org/pdf/2502.19328)  (THU) [Code] (https://github.com/THU-KEG/Agentic-Reward-Modeling)
 
 ## Projects
 [R1-V](https://github.com/Deep-Agent/R1-V) 
+
+[EasyR1] (https://github.com/hiyouga/EasyR1)  
+
+[R1-Onevision] (https://github.com/Fancy-MLLM/R1-Onevision)  
+
+[LMM-R1] (https://github.com/TideDra/lmm-r1)  
+
+[VLM-R1] (https://github.com/om-ai-lab/VLM-R1)  
+
+[Open-r1-multimodal] (https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  
+
+[Video-R1] (https://github.com/tulerfeng/Video-R1)  
+
+[Open-R1-Video] (https://github.com/Wang-Xiaodong1899/Open-R1-Video)  
+
+[R1-Vision] (https://github.com/yuyq96/R1-Vision)  
