@@ -16,9 +16,9 @@ In this repository, we will continuously update the latest papers, slides, and o
   - [4.MLLM Reward Model Design](#4mllm-reward-model-design)
 - [Open-Source Projects](#open-source-projects)
 
-## Papers
+## 📖 Papers
 
-### 1.Generated Data Guided Post-Training
+### 📌 1.Generated Data Guided Post-Training
 [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)![](https://img.shields.io/badge/github-2025.03-red)
 
 [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) (Shanghai AI Lab)
@@ -69,8 +69,9 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 [2306] [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195) 
 
+[⬆️ Back to Top](#-table-of-contents)
 
-### 2.Test-time Scaling
+### 🚀 2.Test-time Scaling
 [2502] [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://arxiv.org/pdf/2502.02339) 
 
 [2502] [MLLMS KNOW WHERE TO LOOK: TRAINING-FREE PERCEPTION OF SMALL VISUAL DETAILS WITH MULTIMODAL LLMS](https://arxiv.org/pdf/2502.17422) 
@@ -87,7 +88,8 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 [2402] [V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/pdf/2402.06457) 
 
-### 3.Benchmarks
+[⬆️ Back to Top](#-table-of-contents)
+### 📊 3.Benchmarks
 
 [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)  
 
@@ -105,7 +107,8 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 [2312] [V∗](https://arxiv.org/pdf/2312.14135)   
 
-### 4.MLLM Reward Model Design
+[⬆️ Back to Top](#-table-of-contents)
+### 🎯 4.MLLM Reward Model Design
 [2503] [Process-based Self-Rewarding Language Models](https://arxiv.org/pdf/2503.03746) (NJU) [Code](https://github.com/Shimao-Zhang/Process-Self-Rewarding)  
 
 [2502] [Self-Consistency of the Internal Reward Models Improves Self-Rewarding Language Models](https://arxiv.org/pdf/2502.08922) (FDU)
@@ -116,7 +119,9 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 [2502] [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301) (Qwen) [Code](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-7B)
 
-## Open-Source Projects
+[⬆️ Back to Top](#-table-of-contents)
+
+## 🛠️ Open-Source Projects
 [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V)![](https://img.shields.io/badge/github-2025.02-red)
 
 [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1)![](https://img.shields.io/badge/github-2025.02-red)  
@@ -134,3 +139,11 @@ In this repository, we will continuously update the latest papers, slides, and o
 [Open-R1-Video] [Code](https://github.com/Wang-Xiaodong1899/Open-R1-Video)![](https://img.shields.io/badge/github-2025.02-red)  
 
 [R1-Vision: Let's first take a look at the image] [Code](https://github.com/yuyq96/R1-Vision)![](https://img.shields.io/badge/github-2025.02-red)  
+
+[⬆️ Back to Top](#-table-of-contents)
+
+## 🤝 Contributing
+
+<!-- 欢迎提交新的资源或论文链接，请直接发起[Pull Request](https://github.com/your-repo-url/pulls)。 -->
+
+## 📜 Citation
