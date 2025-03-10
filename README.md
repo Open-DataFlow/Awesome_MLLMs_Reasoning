@@ -7,13 +7,13 @@ In this repository, we will continuously update the latest papers, slides, and o
 ### Generated Data Guided Post-Training
 [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)
 
-[2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) [Code]()
+[2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) (Shanghai AI Lab)
 
-[2502] [Introducing Visual Perception Token into Multimodal Large Language Model](https://arxiv.org/pdf/2502.17425) [Code]()
+[2502] [Introducing Visual Perception Token into Multimodal Large Language Model](https://arxiv.org/pdf/2502.17425) (NUS)
 
-[2502] [MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification](https://arxiv.org/pdf/2502.13383) [Code]()
+[2502] [MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification](https://arxiv.org/pdf/2502.13383) (PKU)
 
-[2502] [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://arxiv.org/pdf/2502.10391) [Code]()
+[2502] [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://arxiv.org/pdf/2502.10391) (Kuaishou) [Code](https://github.com/Kwai-YuanQi/MM-RLHF)
 
 [2502] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models via Reinforcement Learning](https://arxiv.org/pdf/2502.19634) [Code]()
 
@@ -74,7 +74,6 @@ In this repository, we will continuously update the latest papers, slides, and o
 [2402] [V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/pdf/2402.06457) [Code]()
 
 ### Benchmarks
-以下是根据文章地址替换名字后的格式：
 
 [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)  
 
