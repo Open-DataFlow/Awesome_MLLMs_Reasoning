@@ -101,18 +101,18 @@ In this repository, we will continuously update the latest papers, slides, and o
 ## Projects
 [R1-V](https://github.com/Deep-Agent/R1-V) 
 
-[EasyR1] (https://github.com/hiyouga/EasyR1)  
+[EasyR1](https://github.com/hiyouga/EasyR1)  
 
-[R1-Onevision] (https://github.com/Fancy-MLLM/R1-Onevision)  
+[R1-Onevision](https://github.com/Fancy-MLLM/R1-Onevision)  
 
-[LMM-R1] (https://github.com/TideDra/lmm-r1)  
+[LMM-R1](https://github.com/TideDra/lmm-r1)  
 
-[VLM-R1] (https://github.com/om-ai-lab/VLM-R1)  
+[VLM-R1](https://github.com/om-ai-lab/VLM-R1)  
 
-[Open-r1-multimodal] (https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  
+[Open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  
 
-[Video-R1] (https://github.com/tulerfeng/Video-R1)  
+[Video-R1](https://github.com/tulerfeng/Video-R1)  
 
-[Open-R1-Video] (https://github.com/Wang-Xiaodong1899/Open-R1-Video)  
+[Open-R1-Video](https://github.com/Wang-Xiaodong1899/Open-R1-Video)  
 
-[R1-Vision] (https://github.com/yuyq96/R1-Vision)  
+[R1-Vision](https://github.com/yuyq96/R1-Vision)  
