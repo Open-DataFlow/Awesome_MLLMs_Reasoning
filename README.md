@@ -21,19 +21,17 @@ In this repository, we will continuously update the latest papers, slides, and o
 ### 📌 1.Generated Data Guided Post-Training
 [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)![](https://img.shields.io/badge/github-2025.03-red)
 
-[2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) (Shanghai AI Lab)
+[2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) (Shanghai AI Lab) [Code](https://github.com/PhoenixZ810/OmniAlign-V)
 
-[2502] [Introducing Visual Perception Token into Multimodal Large Language Model](https://arxiv.org/pdf/2502.17425) (NUS)
-
-[2502] [MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification](https://arxiv.org/pdf/2502.13383) (PKU)
+[2502] [MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification](https://arxiv.org/pdf/2502.13383) (PKU) [Code](https://github.com/Aurora-slz/MM-Verify)
 
 [2502] [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://arxiv.org/pdf/2502.10391) (Kuaishou) [Code](https://github.com/Kwai-YuanQi/MM-RLHF)
 
 [2502] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models via Reinforcement Learning](https://arxiv.org/pdf/2502.19634) 
 
-[2501] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step](https://arxiv.org/pdf/2501.13926) 
+[2501] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step](https://arxiv.org/pdf/2501.13926) (CUHK) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 
-[2501] [KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://arxiv.org/pdf/2501.12599) 
+[2501] [KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://arxiv.org/pdf/2501.12599) (Kimi Team)
 
 [2501] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/pdf/2501.04686) 
 
