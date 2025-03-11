@@ -109,7 +109,7 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 
 * [2401] [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/pdf/2401.06209) 
 
-* [2312] [V∗](https://arxiv.org/pdf/2312.14135)   
+* [2312] [V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/pdf/2312.14135)   
 
 [⬆️ Back to Top](#-table-of-contents)
 ### 🎯 5.MLLM Reward Model Design
