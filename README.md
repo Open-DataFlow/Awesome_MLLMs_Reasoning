@@ -24,9 +24,10 @@ In this repository, we will continuously update the latest papers, slides, and o
 ### 📝  1.Technical Report
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
 * [2503] [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/) (Qwen Team)
-* [2501] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
-Reinforcement Learning](https://arxiv.org/pdf/2501.12948) (DeepSeek Team)
-* [2501] [KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://arxiv.org/pdf/2501.12599) (Kimi Team)
+  
+* [2501] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948) (DeepSeek Team)
+
+* [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/pdf/2501.12599) (Kimi Team)
 
 ### 📌 2.Generated Data Guided Post-Training
 * [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)
@@ -78,9 +79,7 @@ Reinforcement Learning](https://arxiv.org/pdf/2501.12948) (DeepSeek Team)
 ### 🚀 3.Test-time Scaling
 * [2502] [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://arxiv.org/pdf/2502.02339) 
 
-* [2502] [MLLMS KNOW WHERE TO LOOK: TRAINING-FREE PERCEPTION OF SMALL VISUAL DETAILS WITH MULTIMODAL LLMS](https://arxiv.org/pdf/2502.17422) 
-
-* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/pdf/2412.03704) 
+* [2502] [MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](https://arxiv.org/pdf/2502.17422) 
 
 * [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/pdf/2412.03704) 
 
