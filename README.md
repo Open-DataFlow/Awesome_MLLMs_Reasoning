@@ -84,8 +84,6 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 
 * [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/pdf/2412.03704) 
 
-* [2409] [Visual Agents as Fast and Slow Thinkers](https://openreview.net/pdf?id=ncCuiD3KJQ) 
-
 * [2411] [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) [Code](https://github.com/njucckevin/MM-Self-Improve)
 
 * [2402] [Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models](https://arxiv.org/pdf/2402.12058) [Code](https://github.com/leixy20/Scaffold)
@@ -95,7 +93,19 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 [⬆️ Back to Top](#-table-of-contents)
 
 ### 🚀 4.Collaborative Reasoning
+This kind of method aims to use small models(tool or visual expert) or multiple MLLMs to do collaborative reasoning.
 
+* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/pdf/2412.03704)
+
+* [2410] [VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use](https://arxiv.org/pdf/2410.16400)
+
+* [2406] [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](https://arxiv.org/pdf/2406.09403)
+
+* [2409] [Visual Agents as Fast and Slow Thinkers](https://openreview.net/pdf?id=ncCuiD3KJQ) 
+
+* [2312] [Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models](https://arxiv.org/pdf/2312.03052)
+
+* [2211] [Visual Programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559)
 
 [⬆️ Back to Top](#-table-of-contents)
 
