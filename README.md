@@ -63,54 +63,37 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 [⬆️ Back to Top](#-table-of-contents)
 
 ### 🚀 3.Test-time Scaling
-* [2502] [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://arxiv.org/pdf/2502.02339) (THU)
-
-* [2502] [MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](https://arxiv.org/pdf/2502.17422) (USC)
-
-* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/pdf/2412.03704) (University of Maryland)
-
-* [2411] [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) (NJU) [Code](https://github.com/njucckevin/MM-Self-Improve)
-
-* [2402] [Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models](https://arxiv.org/pdf/2402.12058) (THU) [Code](https://github.com/leixy20/Scaffold)
-
-* [2402] [V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/pdf/2402.06457) (Mila, Universite de Montreal)
+* [2502] [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking] (THU) [Paper](https://arxiv.org/pdf/2502.02339)
+* [2502] [MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs] (USC) [Paper](https://arxiv.org/pdf/2502.17422)
+* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension] (University of Maryland) [Paper](https://arxiv.org/pdf/2412.03704)
+* [2411] [Vision-Language Models Can Self-Improve Reasoning via Reflection] (NJU) [Paper](https://arxiv.org/pdf/2411.00855) [Code](https://github.com/njucckevin/MM-Self-Improve)
+* [2402] [Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models] (THU) [Paper](https://arxiv.org/pdf/2402.12058) [Code](https://github.com/leixy20/Scaffold)
+* [2402] [V-STaR: Training Verifiers for Self-Taught Reasoners] (Mila, Universite de Montreal) [Paper](https://arxiv.org/pdf/2402.06457) 
 
 [⬆️ Back to Top](#-table-of-contents)
 
 ### 🚀 4.Collaborative Reasoning
 This kind of method aims to use small models(tool or visual expert) or multiple MLLMs to do collaborative reasoning.
 
-* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/pdf/2412.03704) (University of Maryland)
-
-* [2410] [VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use](https://arxiv.org/pdf/2410.16400) (Dartmouth College)
-
-* [2406] [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](https://arxiv.org/pdf/2406.09403) (University of Washington)
-
-* [2409] [Visual Agents as Fast and Slow Thinkers](https://openreview.net/pdf?id=ncCuiD3KJQ) (UCLA)
-
-* [2312] [Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models](https://arxiv.org/pdf/2312.03052) (Google Research)
-
-* [2211] [Visual Programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) (Allen Institute for AI)
+* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension] (University of Maryland) [Paper](https://arxiv.org/pdf/2412.03704)
+* [2410] [VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use] (Dartmouth College) [Paper](https://arxiv.org/pdf/2410.16400)
+* [2406] [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models] (University of Washington) [Paper](https://arxiv.org/pdf/2406.09403)
+* [2409] [Visual Agents as Fast and Slow Thinkers] (UCLA) [Paper](https://openreview.net/pdf?id=ncCuiD3KJQ)
+* [2312] [Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models] (Google Research) [Paper](https://arxiv.org/pdf/2312.03052)
+* [2211] [Visual Programming: Compositional visual reasoning without training] (Allen Institute for AI) [Paper](https://arxiv.org/abs/2211.11559) 
 
 [⬆️ Back to Top](#-table-of-contents)
 
 ### 📊 5.Benchmarks
 
-* [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models](https://arxiv.org/pdf/2502.14191) (FAIR) [Code](https://github.com/facebookresearch/multimodal_rewardbench)  
-
-* [2502] [ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models](https://arxiv.org/pdf/2502.09696) (University of Cambridge) [Code](https://zerobench.github.io/)  
-
-* [2502] [MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models](https://arxiv.org/pdf/2502.00698) (Tencent Hunyuan Team) [Code](https://acechq.github.io/MMIQ-benchmark/)  
-
-* [2502] [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://arxiv.org/pdf/2502.09621) (CUHK MMLab) [Code](https://mmecot.github.io/)
-
-* [2406] [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs](https://arxiv.org/pdf/2406.16860) (NYU) [Code](https://github.com/cambrian-mllm/cambrian)
-
-* [2404] [BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/pdf/2404.12390) (University of Pennsylvania)
-
-* [2401] [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/pdf/2401.06209) (NYU) 
-
-* [2312] [V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/pdf/2312.14135) (UCSD)
+* [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models] (FAIR) [Paper](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)
+* [2502] [ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models] (University of Cambridge) [Paper](https://arxiv.org/pdf/2502.09696) [Code](https://zerobench.github.io/)
+* [2502] [MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models] (Tencent Hunyuan Team) [Paper](https://arxiv.org/pdf/2502.00698) [Code](https://acechq.github.io/MMIQ-benchmark/)
+* [2502] [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency] (CUHK MMLab) [Paper](https://arxiv.org/pdf/2502.09621) [Code](https://mmecot.github.io/)
+* [2406] [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs] (NYU) [Paper](https://arxiv.org/pdf/2406.16860) [Code](https://github.com/cambrian-mllm/cambrian)
+* [2404] [BLINK: Multimodal Large Language Models Can See but Not Perceive] (University of Pennsylvania) [Paper](https://arxiv.org/pdf/2404.12390)
+* [2401] [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs] (NYU) [Paper](https://arxiv.org/pdf/2401.06209)
+* [2312] [V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs] (UCSD) [Paper](https://arxiv.org/pdf/2312.14135)
 
 [⬆️ Back to Top](#-table-of-contents)
 
