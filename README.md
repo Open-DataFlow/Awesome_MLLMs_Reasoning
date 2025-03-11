@@ -24,10 +24,12 @@ In this repository, we will continuously update the latest papers, slides, and o
 ### 📝  1.Technical Report
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
 * [2503] [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/) (Qwen Team)(https://img.shields.io/badge/github-2025.03-red)
+* [2501] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via
+Reinforcement Learning](https://arxiv.org/pdf/2501.12948) (DeepSeek Team)
 * [2501] [KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://arxiv.org/pdf/2501.12599) (Kimi Team)(https://img.shields.io/badge/github-2025.03-red)
 
 ### 📌 2.Generated Data Guided Post-Training
-* [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)![](https://img.shields.io/badge/github-2025.03-red)
+* [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)
 
 * [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) (Shanghai AI Lab) [Code](https://github.com/PhoenixZ810/OmniAlign-V)
 
