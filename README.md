@@ -24,55 +24,41 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 ### 📝  1.Technical Report
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
-* [2025-03-06] [QwQ-32B: Embracing the Power of Reinforcement Learning](Qwen Team) [Paper](https://qwenlm.github.io/blog/qwq-32b/) [Code](https://huggingface.co/Qwen/QwQ-32B)
-* [2025-01-22] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](DeepSeek Team) [Paper](https://arxiv.org/pdf/2501.12948)
+* [2503] [QwQ-32B: Embracing the Power of Reinforcement Learning](Qwen Team) [Paper](https://qwenlm.github.io/blog/qwq-32b/) [Code](https://huggingface.co/Qwen/QwQ-32B)
 
-* [2025-01-05] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Paper](https://arxiv.org/pdf/2501.12599)
+* [2501] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](DeepSeek Team) [Paper](https://arxiv.org/pdf/2501.12948)
+
+* [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Paper](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training
-* [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) (Shanghai AI Lab)   [Code](https://github.com/Liuziyu77/Visual-RFT)
+* [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning] (Shanghai AI Lab) [Paper](https://arxiv.org/abs/2503.01785) [Code](https://github.com/Liuziyu77/Visual-RFT)
 
-* [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://arxiv.org/pdf/2502.18411) (Shanghai AI Lab) [Code](https://github.com/PhoenixZ810/OmniAlign-V)
+* [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2502.18411) [Code](https://github.com/PhoenixZ810/OmniAlign-V)
 
-* [2502] [MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification](https://arxiv.org/pdf/2502.13383) (PKU) [Code](https://github.com/Aurora-slz/MM-Verify)
+* [2502] [MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification] (PKU) [Paper](https://arxiv.org/pdf/2502.13383) [Code](https://github.com/Aurora-slz/MM-Verify)
 
-* [2502] [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://arxiv.org/pdf/2502.10391) (Kuaishou) [Code](https://github.com/Kwai-YuanQi/MM-RLHF)
+* [2502] [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment] (Kuaishou) [Paper](https://arxiv.org/pdf/2502.10391) [Code](https://github.com/Kwai-YuanQi/MM-RLHF)
 
-* [2501] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step](https://arxiv.org/pdf/2501.13926) (CUHK) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
+* [2501] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step] (CUHK) [Paper](https://arxiv.org/pdf/2501.13926) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 
-* [2501] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/pdf/2501.04686) (ByteDance)
+* [2501] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics] (ByteDance) [Paper](https://arxiv.org/pdf/2501.04686)
+* [2501] [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs] (Mohamed bin Zayed University of AI) [Paper](https://arxiv.org/pdf/2501.06186)
+* [2501] [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought] (Microsoft Research) [Paper](https://arxiv.org/pdf/2501.07542)
+* [2501] [Technical Report on Slow Thinking with LLMs: Visual Reasoning] (Renmin University of China) [Paper](https://arxiv.org/pdf/2501.01904)
+* [2412] [MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale] (CMU) [Paper](https://arxiv.org/pdf/2412.05237)
 
-* [2501] [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/pdf/2501.06186) (Mohamed bin Zayed University of AI)
-
-* [2501] [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542) (Microsoft Research)
-
-* [2501] [Technical Report on Slow Thinking with LLMs: Visual Reasoning](https://arxiv.org/pdf/2501.01904) (Renmin University of China)
-
-* [2412] [MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale](https://arxiv.org/pdf/2412.05237) (CMU)
-
-* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/pdf/2412.03704) (University of Maryland)
-
-* [2412] [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action](https://arxiv.org/pdf/2412.05479) (University of Washington)
-
-* [2412] [Diving into Self-Evolving Training for Multimodal Reasoning](https://arxiv.org/pdf/2412.17451) (HKUST)
-
-* [2412] [Progressive Multimodal Reasoning via Active Retrieval](https://arxiv.org/pdf/2412.14835) (Renmin University of China)
-
-* [2411] [Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization](https://arxiv.org/pdf/2411.10442) (Shanghai AI Lab)
-
-* [2411] [Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning](https://arxiv.org/pdf/2411.18203) (FDU)
-
-* [2411] [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2411.14432) (NTU)
-
-* [2411] [AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning](https://arxiv.org/pdf/2411.11930) (Sun Yat-sen University)
-
-* [2411] [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/pdf/2411.10440v1) (PKU)
-
-* [2411] [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) (NJU) 
-
-* [2403] [Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models](https://arxiv.org/pdf/2403.16999) (CUHK)
-
-* [2306] [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195) (SenseTime)
+* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension] (University of Maryland) [Paper](https://arxiv.org/pdf/2412.03704)
+* [2412] [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action] (University of Washington) [Paper](https://arxiv.org/pdf/2412.05479)
+* [2412] [Diving into Self-Evolving Training for Multimodal Reasoning] (HKUST) [Paper](https://arxiv.org/pdf/2412.17451)
+* [2412] [Progressive Multimodal Reasoning via Active Retrieval] (Renmin University of China) [Paper](https://arxiv.org/pdf/2412.14835)
+* [2411] [Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2411.10442)
+* [2411] [Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning] (FDU) [Paper](https://arxiv.org/pdf/2411.18203)
+* [2411] [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models] (NTU) [Paper](https://arxiv.org/pdf/2411.14432)
+* [2411] [AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning] (Sun Yat-sen University) [Paper](https://arxiv.org/pdf/2411.11930)
+* [2411] [LLaVA-o1: Let Vision Language Models Reason Step-by-Step] (PKU) [Paper](https://arxiv.org/pdf/2411.10440v1)
+* [2411] [Vision-Language Models Can Self-Improve Reasoning via Reflection] (NJU) [Paper](https://arxiv.org/pdf/2411.00855)
+* [2403] [Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models] (CUHK) [Paper](https://arxiv.org/pdf/2403.16999)
+* [2306] [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic] (SenseTime) [Paper](https://arxiv.org/pdf/2306.15195) 
 
 [⬆️ Back to Top](#-table-of-contents)
 
