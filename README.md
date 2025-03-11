@@ -37,25 +37,23 @@ Reinforcement Learning](https://arxiv.org/pdf/2501.12948) (DeepSeek Team)
 
 * [2502] [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://arxiv.org/pdf/2502.10391) (Kuaishou) [Code](https://github.com/Kwai-YuanQi/MM-RLHF)
 
-* [2502] [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models via Reinforcement Learning](https://arxiv.org/pdf/2502.19634) 
-
 * [2501] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step](https://arxiv.org/pdf/2501.13926) (CUHK) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 
-* [2501] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/pdf/2501.04686) 
+* [2501] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/pdf/2501.04686) (ByteDance)
 
-* [2501] [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/pdf/2501.06186) 
+* [2501] [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/pdf/2501.06186) (Mohamed bin Zayed University of AI)
 
-* [2501] [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542) 
+* [2501] [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542) (Microsoft Research)
 
-* [2501] [Technical Report on Slow Thinking with LLMs: Visual Reasoning](https://arxiv.org/pdf/2501.01904) 
+* [2501] [Technical Report on Slow Thinking with LLMs: Visual Reasoning](https://arxiv.org/pdf/2501.01904) (Renmin University of China)
 
-* [2412] [MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale](https://arxiv.org/pdf/2412.05237) 
+* [2412] [MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale](https://arxiv.org/pdf/2412.05237) (CMU)
 
-* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/pdf/2412.03704) 
+* [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension](https://arxiv.org/pdf/2412.03704) (University of Maryland)
 
-* [2412] [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action](https://arxiv.org/pdf/2412.05479) 
+* [2412] [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action](https://arxiv.org/pdf/2412.05479) (University of Washington)
 
-* [2412] [DIVING INTO SELF-EVOLVING TRAINING FOR MULTIMODAL REASONING](https://arxiv.org/pdf/2412.17451) 
+* [2412] [Diving into Self-Evolving Training for Multimodal Reasoning](https://arxiv.org/pdf/2412.17451) (HKUST)
 
 * [2412] [Progressive Multimodal Reasoning via Active Retrieval](https://arxiv.org/pdf/2412.14835) 
 
