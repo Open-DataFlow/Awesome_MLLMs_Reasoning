@@ -111,15 +111,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 
 [⬆️ Back to Top](#-table-of-contents)
 ### 🎯 5.MLLM Reward Model Design
-* [2503] [Process-based Self-Rewarding Language Models](https://arxiv.org/pdf/2503.03746) (NJU) [Code](https://github.com/Shimao-Zhang/Process-Self-Rewarding)  
 
-* [2502] [Self-Consistency of the Internal Reward Models Improves Self-Rewarding Language Models](https://arxiv.org/pdf/2502.08922) (FDU)
-
-* [2502] [Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems](https://arxiv.org/pdf/2502.19328)  (THU) [Code] (https://github.com/THU-KEG/Agentic-Reward-Modeling)
-
-* [2502] [Preference Leakage: A Contamination Problem in LLM-as-a-judge](https://arxiv.org/abs/2502.01534) (Arizona State University) [Code](https://github.com/David-Li0406/Preference-Leakage)
-
-* [2502] [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301) (Qwen) [Code](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-7B)
 
 [⬆️ Back to Top](#-table-of-contents)
 
