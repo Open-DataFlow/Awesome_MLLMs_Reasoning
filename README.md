@@ -14,7 +14,8 @@ In this repository, we will continuously update the latest papers, slides, and o
   - [1.Technical Report](#-1technical-report)
   - [2.Generated Data Guided Post-Training](#-2generated-data-guided-post-training)
   - [3.Test-time Scaling](#-3test-time-scaling)
-  - [4.Benchmarks](#-4benchmarks)
+  - [4.Collaborative Reasoning](#-4collaborative-reasoning)
+  - [5.Benchmarks](#-4benchmarks)
 - [Open-Source Projects](#️-open-source-projects)
 
 
@@ -92,7 +93,13 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2402] [V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/pdf/2402.06457) 
 
 [⬆️ Back to Top](#-table-of-contents)
-### 📊 4.Benchmarks
+
+### 🚀 4.Collaborative Reasoning
+
+
+[⬆️ Back to Top](#-table-of-contents)
+
+### 📊 5.Benchmarks
 
 * [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)  
 
