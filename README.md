@@ -136,6 +136,6 @@ Reinforcement Learning](https://arxiv.org/pdf/2501.12948) (DeepSeek Team)
 
 ## 🤝 Contributing
 
-You’re welcome to submit new resources or paper links. Please initiate a [Pull Request](https://github.com/your-repo-url/pulls) directly.
+You’re welcome to submit new resources or paper links. Please initiate a [Pull Request](https://github.com/Open-DataFlow/Awesome_MLLMs_Reasoning/pulls) directly.
 
 ## 📜 Citation
