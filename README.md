@@ -11,10 +11,10 @@ In this repository, we will continuously update the latest papers, slides, and o
 ## 📚 Table of Contents
 - [Awesome_MLLMs_Reasoning](#-awesome_mllms_reasoning)
   - 
-  - [1.Generated Data Guided Post-Training](#-1generated-data-guided-post-training)
-  - [2.Test-time Scaling](#-2test-time-scaling)
-  - [3.Benchmarks](#-3benchmarks)
-  - [4.MLLM Reward Model Design](#-4mllm-reward-model-design)
+  - [1.Technical Report](#-1technical-report)
+  - [2.Generated Data Guided Post-Training](#-2generated-data-guided-post-training)
+  - [3.Test-time Scaling](#-3test-time-scaling)
+  - [4.Benchmarks](#-4benchmarks)
 - [Open-Source Projects](#️-open-source-projects)
 
 
@@ -22,6 +22,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 ## 📖 Papers
 
 ### 📝  1.Technical Report
+We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
 * [2503] [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/) (Qwen Team)(https://img.shields.io/badge/github-2025.03-red)
 * [2501] [KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://arxiv.org/pdf/2501.12599) (Kimi Team)(https://img.shields.io/badge/github-2025.03-red)
 
