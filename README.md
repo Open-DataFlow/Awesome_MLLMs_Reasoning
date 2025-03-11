@@ -112,10 +112,6 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2312] [V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/pdf/2312.14135)   
 
 [⬆️ Back to Top](#-table-of-contents)
-### 🎯 5.MLLM Reward Model Design
-
-
-[⬆️ Back to Top](#-table-of-contents)
 
 ## 🛠️ Open-Source Projects
 * [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V)![](https://img.shields.io/badge/github-2025.02-red)
