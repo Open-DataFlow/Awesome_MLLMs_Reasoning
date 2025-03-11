@@ -57,19 +57,19 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 
 * [2412] [Diving into Self-Evolving Training for Multimodal Reasoning](https://arxiv.org/pdf/2412.17451) (HKUST)
 
-* [2412] [Progressive Multimodal Reasoning via Active Retrieval](https://arxiv.org/pdf/2412.14835) 
+* [2412] [Progressive Multimodal Reasoning via Active Retrieval](https://arxiv.org/pdf/2412.14835) (Renmin University of China)
 
-* [2411] [Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization](https://arxiv.org/pdf/2411.10442) 
+* [2411] [Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization](https://arxiv.org/pdf/2411.10442) (Shanghai AI Lab)
 
-* [2411] [Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning](https://arxiv.org/pdf/2411.18203) 
+* [2411] [Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning](https://arxiv.org/pdf/2411.18203) (FDU)
 
-* [2411] [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2411.14432) 
+* [2411] [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2411.14432) (NTU)
 
-* [2411] [AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning](https://arxiv.org/pdf/2411.11930) 
+* [2411] [AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning](https://arxiv.org/pdf/2411.11930) (Sun Yat-sen University)
 
-* [2411] [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/pdf/2411.10440v1) 
+* [2411] [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/pdf/2411.10440v1) (PKU)
 
-* [2411] [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) 
+* [2411] [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) (NJU) 
 
 * [2403] [Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models](https://arxiv.org/pdf/2403.16999) 
 
