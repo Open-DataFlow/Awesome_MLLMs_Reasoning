@@ -90,10 +90,10 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 * [2502] [ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models] (University of Cambridge) [Paper](https://arxiv.org/pdf/2502.09696) [Code](https://zerobench.github.io/)
 * [2502] [MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models] (Tencent Hunyuan Team) [Paper](https://arxiv.org/pdf/2502.00698) [Code](https://acechq.github.io/MMIQ-benchmark/)
 * [2502] [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency] (CUHK MMLab) [Paper](https://arxiv.org/pdf/2502.09621) [Code](https://mmecot.github.io/)
-* [2406] [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs] (NYU) [Paper](https://arxiv.org/pdf/2406.16860) [Code](https://github.com/cambrian-mllm/cambrian)
+* [2406] [(CV-Bench)Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs] (NYU) [Paper](https://arxiv.org/pdf/2406.16860) [Code](https://github.com/cambrian-mllm/cambrian)
 * [2404] [BLINK: Multimodal Large Language Models Can See but Not Perceive] (University of Pennsylvania) [Paper](https://arxiv.org/pdf/2404.12390)
-* [2401] [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs] (NYU) [Paper](https://arxiv.org/pdf/2401.06209)
-* [2312] [V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs] (UCSD) [Paper](https://arxiv.org/pdf/2312.14135)
+* [2401] [(MMVP) Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs] (NYU) [Paper](https://arxiv.org/pdf/2401.06209)
+* [2312] [(V∗Bench) V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs] (UCSD) [Paper](https://arxiv.org/pdf/2312.14135)
 
 [⬆️ Back to Top](#-table-of-contents)
 
