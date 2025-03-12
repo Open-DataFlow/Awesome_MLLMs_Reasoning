@@ -5,7 +5,7 @@ In this repository, we will continuously update the latest papers, slides, and o
 <!-- omit in toc -->
 ## 📢 Updates
 
-- **2025.03**: We released this repo. Feel free to cite or open pull requests.
+- **2025.03**: We released this repo. Feel free to open pull requests.
 
 <!-- omit in toc -->
 ## 📚 Table of Contents
@@ -125,4 +125,3 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 
 You’re welcome to submit new resources or paper links. Please initiate a [Pull Request](https://github.com/Open-DataFlow/Awesome_MLLMs_Reasoning/pulls) directly.
 
-## 📜 Citation
