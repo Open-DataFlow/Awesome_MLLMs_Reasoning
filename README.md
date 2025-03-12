@@ -1,6 +1,6 @@
 # Awesome_MLLMs_Reasoning
 
-In this repository, we will continuously update the latest papers, slides, and other valuable resources that advance MLLM reasoning, making learning more efficient for everyone!
+In this repository, we will continuously update the latest papers, projects, and other valuable resources that advance MLLM reasoning, making learning more efficient for everyone!
 
 <!-- omit in toc -->
 ## 📢 Updates
