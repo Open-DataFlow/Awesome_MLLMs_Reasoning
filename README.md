@@ -100,24 +100,15 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 ## 🛠️ Open-Source Projects
 
 * [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning] [Code](https://github.com/ModalMinds/MM-EUREKA) ![MM-EUREKA Stars](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA)
-
-* [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V)![](https://img.shields.io/badge/github-2025.02-red)
-
-* [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1)![](https://img.shields.io/badge/github-2025.02-red)  
-
-* [R1-Onevision：An Open-Source Multimodal Large Language Model Capable of Deep Reasoning] [Code](https://github.com/Fancy-MLLM/R1-Onevision)![](https://img.shields.io/badge/github-2025.02-red)  
-
-* [LMM-R1] [Code](https://github.com/TideDra/lmm-r1)![](https://img.shields.io/badge/github-2025.02-red)  
-
-* [VLM-R1: A stable and generalizable R1-style Large Vision-Language Model] [Code](https://github.com/om-ai-lab/VLM-R1)![](https://img.shields.io/badge/github-2025.02-red)  
-
-* [Multi-modal Open R1] [Code](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)![](https://img.shields.io/badge/github-2025.02-red)  
-
-* [Video-R1: Towards Super Reasoning Ability in Video Understanding] [Code](https://github.com/tulerfeng/Video-R1)![](https://img.shields.io/badge/github-2025.02-red)  
-
-* [Open-R1-Video] [Code](https://github.com/Wang-Xiaodong1899/Open-R1-Video)![](https://img.shields.io/badge/github-2025.02-red)  
-
-* [R1-Vision: Let's first take a look at the image] [Code](https://github.com/yuyq96/R1-Vision)![](https://img.shields.io/badge/github-2025.02-red)
+* [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V) ![R1-V Stars](https://img.shields.io/github/stars/Deep-Agent/R1-V)
+* [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1) ![EasyR1 Stars](https://img.shields.io/github/stars/hiyouga/EasyR1)
+* [R1-Onevision：An Open-Source Multimodal Large Language Model Capable of Deep Reasoning] [Code](https://github.com/Fancy-MLLM/R1-Onevision) ![R1-Onevision Stars](https://img.shields.io/github/stars/Fancy-MLLM/R1-Onevision)
+* [LMM-R1] [Code](https://github.com/TideDra/lmm-r1) ![LMM-R1 Stars](https://img.shields.io/github/stars/TideDra/lmm-r1)
+* [VLM-R1: A stable and generalizable R1-style Large Vision-Language Model] [Code](https://github.com/om-ai-lab/VLM-R1) ![VLM-R1 Stars](https://img.shields.io/github/stars/om-ai-lab/VLM-R1)
+* [Multi-modal Open R1] [Code](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) ![Multi-modal Open R1 Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal)
+* [Video-R1: Towards Super Reasoning Ability in Video Understanding] [Code](https://github.com/tulerfeng/Video-R1) ![Video-R1 Stars](https://img.shields.io/github/stars/tulerfeng/Video-R1)
+* [Open-R1-Video] [Code](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![Open-R1-Video Stars](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video)
+* [R1-Vision: Let's first take a look at the image] [Code](https://github.com/yuyq96/R1-Vision) ![R1-Vision Stars](https://img.shields.io/github/stars/yuyq96/R1-Vision)
 
 
 [⬆️ Back to Top](#-table-of-contents)
