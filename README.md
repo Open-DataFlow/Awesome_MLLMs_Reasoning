@@ -98,7 +98,7 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 [⬆️ Back to Top](#-table-of-contents)
 
 ## 🛠️ Open-Source Projects
-* [MM-EUREKA:Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning] () [Code](https://github.com/ModalMinds/MM-EUREKA)
+* [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning] [Code](https://github.com/ModalMinds/MM-EUREKA)
 
 * [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V)![](https://img.shields.io/badge/github-2025.02-red)
 
