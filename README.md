@@ -31,6 +31,7 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Paper](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training
+* [2503] [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning] [Paper](https://arxiv.org/pdf/2503.07365) [Code](https://github.com/ModalMinds/MM-EUREKA)
 * [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning] (Shanghai AI Lab) [Paper](https://arxiv.org/abs/2503.01785) [Code](https://github.com/Liuziyu77/Visual-RFT)
 
 * [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2502.18411) [Code](https://github.com/PhoenixZ810/OmniAlign-V)
@@ -98,8 +99,6 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 [⬆️ Back to Top](#-table-of-contents)
 
 ## 🛠️ Open-Source Projects
-
-* [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning] [Code](https://github.com/ModalMinds/MM-EUREKA) ![MM-EUREKA Stars](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA)
 * [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V) ![R1-V Stars](https://img.shields.io/github/stars/Deep-Agent/R1-V)
 * [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1) ![EasyR1 Stars](https://img.shields.io/github/stars/hiyouga/EasyR1)
 * [R1-Onevision：An Open-Source Multimodal Large Language Model Capable of Deep Reasoning] [Code](https://github.com/Fancy-MLLM/R1-Onevision) ![R1-Onevision Stars](https://img.shields.io/github/stars/Fancy-MLLM/R1-Onevision)
