@@ -15,7 +15,8 @@ In this repository, we will continuously update the latest papers, projects, and
   - [2.Generated Data Guided Post-Training](#-2generated-data-guided-post-training)
   - [3.Test-time Scaling](#-3test-time-scaling)
   - [4.Collaborative Reasoning](#-4collaborative-reasoning)
-  - [5.Benchmarks](#-4benchmarks)
+  - [5.MLLM Reward Model](#-5mllm-reward-model)
+  - [6.Benchmarks](#-6benchmarks)
 - [Open-Source Projects](#️-open-source-projects)
 
 
@@ -79,7 +80,12 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 
 [⬆️ Back to Top](#-table-of-contents)
 
-### 📊 5.Benchmarks
+
+### 💰 5.MLLM Reward Model
+* [2503] [Unified Reward Model for Multimodal Understanding and Generation] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2503.05236)
+* [2502] [Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning] (University of California, Riverside) [Paper](https://arxiv.org/pdf/2502.01616)
+
+### 📊 6.Benchmarks
 * [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models] (FAIR) [Paper](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)
 * [2502] [ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models] (University of Cambridge) [Paper](https://arxiv.org/pdf/2502.09696) [Code](https://zerobench.github.io/)
 * [2502] [MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models] (Tencent Hunyuan Team) [Paper](https://arxiv.org/pdf/2502.00698) [Code](https://acechq.github.io/MMIQ-benchmark/)
