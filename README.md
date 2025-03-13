@@ -33,21 +33,15 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 ### 📌 2.Generated Data Guided Post-Training
 * [2503] [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning] [Paper](https://arxiv.org/pdf/2503.07365) [Code](https://github.com/ModalMinds/MM-EUREKA)
 * [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning] (Shanghai AI Lab) [Paper](https://arxiv.org/abs/2503.01785) [Code](https://github.com/Liuziyu77/Visual-RFT)
-
 * [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2502.18411) [Code](https://github.com/PhoenixZ810/OmniAlign-V)
-
 * [2502] [MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification] (PKU) [Paper](https://arxiv.org/pdf/2502.13383) [Code](https://github.com/Aurora-slz/MM-Verify)
-
 * [2502] [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment] (Kuaishou) [Paper](https://arxiv.org/pdf/2502.10391) [Code](https://github.com/Kwai-YuanQi/MM-RLHF)
-
 * [2501] [Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step] (CUHK) [Paper](https://arxiv.org/pdf/2501.13926) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
-
 * [2501] [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics] (ByteDance) [Paper](https://arxiv.org/pdf/2501.04686)
 * [2501] [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs] (Mohamed bin Zayed University of AI) [Paper](https://arxiv.org/pdf/2501.06186)
 * [2501] [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought] (Microsoft Research) [Paper](https://arxiv.org/pdf/2501.07542)
 * [2501] [Technical Report on Slow Thinking with LLMs: Visual Reasoning] (Renmin University of China) [Paper](https://arxiv.org/pdf/2501.01904)
 * [2412] [MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale] (CMU) [Paper](https://arxiv.org/pdf/2412.05237)
-
 * [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension] (University of Maryland) [Paper](https://arxiv.org/pdf/2412.03704)
 * [2412] [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action] (University of Washington) [Paper](https://arxiv.org/pdf/2412.05479)
 * [2412] [Diving into Self-Evolving Training for Multimodal Reasoning] (HKUST) [Paper](https://arxiv.org/pdf/2412.17451)
@@ -86,7 +80,6 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 [⬆️ Back to Top](#-table-of-contents)
 
 ### 📊 5.Benchmarks
-
 * [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models] (FAIR) [Paper](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)
 * [2502] [ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models] (University of Cambridge) [Paper](https://arxiv.org/pdf/2502.09696) [Code](https://zerobench.github.io/)
 * [2502] [MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models] (Tencent Hunyuan Team) [Paper](https://arxiv.org/pdf/2502.00698) [Code](https://acechq.github.io/MMIQ-benchmark/)
@@ -99,6 +92,7 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 [⬆️ Back to Top](#-table-of-contents)
 
 ## 🛠️ Open-Source Projects
+* [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning] [Code](https://github.com/HumanMLLM/R1-Omni) ![R1-Omni Stars](https://img.shields.io/github/stars/HumanMLLM/R1-Omni)
 * [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V) ![R1-V Stars](https://img.shields.io/github/stars/Deep-Agent/R1-V)
 * [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1) ![EasyR1 Stars](https://img.shields.io/github/stars/hiyouga/EasyR1)
 * [R1-Onevision：An Open-Source Multimodal Large Language Model Capable of Deep Reasoning] [Code](https://github.com/Fancy-MLLM/R1-Onevision) ![R1-Onevision Stars](https://img.shields.io/github/stars/Fancy-MLLM/R1-Onevision)
