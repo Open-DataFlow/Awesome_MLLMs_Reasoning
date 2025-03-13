@@ -84,6 +84,7 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 ### 💰 5.MLLM Reward Model
 * [2503] [Unified Reward Model for Multimodal Understanding and Generation] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2503.05236)
 * [2502] [Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning] (University of California, Riverside) [Paper](https://arxiv.org/pdf/2502.01616)
+* [2501] [InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2501.12368)
 * [2410] [TLDR: Token-Level Detective Reward Model for Large Vision Language Models] (Meta) [Paper](https://arxiv.org/pdf/2410.04734)
 
 ### 📊 6.Benchmarks
