@@ -102,7 +102,7 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 
 ## 🛠️ Open-Source Projects
 * [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning] [Code](https://github.com/HumanMLLM/R1-Omni) ![R1-Omni Stars](https://img.shields.io/github/stars/HumanMLLM/R1-Omni)
-* [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V) ![R1-V Stars](https://img.shields.io/github/stars/Deep-Agent/R1-V)
+* [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V) ![R1-V Stars](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Report](https://deepagent.notion.site/rlvr-in-vlms)
 * [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1) ![EasyR1 Stars](https://img.shields.io/github/stars/hiyouga/EasyR1)
 * [R1-Onevision：An Open-Source Multimodal Large Language Model Capable of Deep Reasoning] [Code](https://github.com/Fancy-MLLM/R1-Onevision) ![R1-Onevision Stars](https://img.shields.io/github/stars/Fancy-MLLM/R1-Onevision)
 * [LMM-R1] [Code](https://github.com/TideDra/lmm-r1) ![LMM-R1 Stars](https://img.shields.io/github/stars/TideDra/lmm-r1)
