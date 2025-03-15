@@ -32,6 +32,7 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Paper](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training
+* [2503] [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models] (East China Normal University) [Paper](https://arxiv.org/pdf/2503.06749)
 * [2503] [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning] [Paper](https://arxiv.org/pdf/2503.07365) [Code](https://github.com/ModalMinds/MM-EUREKA)
 * [2503] [Visual-RFT: Visual Reinforcement Fine-Tuning] (Shanghai AI Lab) [Paper](https://arxiv.org/abs/2503.01785) [Code](https://github.com/Liuziyu77/Visual-RFT)
 * [2502] [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2502.18411) [Code](https://github.com/PhoenixZ810/OmniAlign-V)
@@ -105,8 +106,8 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 * [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning] [Code](https://github.com/HumanMLLM/R1-Omni) ![R1-Omni Stars](https://img.shields.io/github/stars/HumanMLLM/R1-Omni)
 * [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V) ![R1-V Stars](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Report](https://deepagent.notion.site/rlvr-in-vlms)
 * [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1) ![EasyR1 Stars](https://img.shields.io/github/stars/hiyouga/EasyR1)
-* [R1-Onevision：An Open-Source Multimodal Large Language Model Capable of Deep Reasoning] [Code](https://github.com/Fancy-MLLM/R1-Onevision) ![R1-Onevision Stars](https://img.shields.io/github/stars/Fancy-MLLM/R1-Onevision)
-* [LMM-R1] [Code](https://github.com/TideDra/lmm-r1) ![LMM-R1 Stars](https://img.shields.io/github/stars/TideDra/lmm-r1)
+* [R1-Onevision：An Open-Source Multimodal Large Language Model Capable of Deep Reasoning] [Paper](https://arxiv.org/pdf/2503.10615) [Code](https://github.com/Fancy-MLLM/R1-Onevision) ![R1-Onevision Stars](https://img.shields.io/github/stars/Fancy-MLLM/R1-Onevision)
+* [LMM-R1] [Code](https://github.com/TideDra/lmm-r1) [Paper](https://arxiv.org/pdf/2503.07536) ![LMM-R1 Stars](https://img.shields.io/github/stars/TideDra/lmm-r1)
 * [VLM-R1: A stable and generalizable R1-style Large Vision-Language Model] [Code](https://github.com/om-ai-lab/VLM-R1) ![VLM-R1 Stars](https://img.shields.io/github/stars/om-ai-lab/VLM-R1)
 * [Multi-modal Open R1] [Code](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) ![Multi-modal Open R1 Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal)
 * [Video-R1: Towards Super Reasoning Ability in Video Understanding] [Code](https://github.com/tulerfeng/Video-R1) ![Video-R1 Stars](https://img.shields.io/github/stars/tulerfeng/Video-R1)
