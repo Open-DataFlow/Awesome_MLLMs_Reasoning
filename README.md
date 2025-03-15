@@ -88,6 +88,7 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 * [2410] [TLDR: Token-Level Detective Reward Model for Large Vision Language Models] (Meta) [Paper](https://arxiv.org/pdf/2410.04734)
 
 ### 📊 6.Benchmarks
+* [2503] [How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game] (THU) [Paper](https://arxiv.org/pdf/2503.10042v1)
 * [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models] (FAIR) [Paper](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)
 * [2502] [ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models] (University of Cambridge) [Paper](https://arxiv.org/pdf/2502.09696) [Code](https://zerobench.github.io/)
 * [2502] [MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models] (Tencent Hunyuan Team) [Paper](https://arxiv.org/pdf/2502.00698) [Code](https://acechq.github.io/MMIQ-benchmark/)
