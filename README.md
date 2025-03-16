@@ -32,6 +32,7 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Paper](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training
+* [2503] [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](Shanghai AI Lab) [Paper](https://huggingface.co/papers/2503.10291) [Blog](https://internvl.github.io/blog/2025-03-13-VisualPRM/)
 * [2503] [R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model] (UCLA) [Paper](https://arxiv.org/pdf/2503.05132) [Blog](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model) [Code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
 * [2503] [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models] (East China Normal University) [Paper](https://arxiv.org/pdf/2503.06749)
 * [2503] [MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning] [Paper](https://arxiv.org/pdf/2503.07365) [Code](https://github.com/ModalMinds/MM-EUREKA)
