@@ -106,6 +106,7 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 [⬆️ Back to Top](#-table-of-contents)
 
 ## 🛠️ Open-Source Projects
+* [MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse] [Code](https://github.com/PzySeere/MetaSpatial) ![MetaSpatial Stars](https://img.shields.io/github/stars/PzySeere/MetaSpatial)
 * [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning] [Code](https://github.com/HumanMLLM/R1-Omni) ![R1-Omni Stars](https://img.shields.io/github/stars/HumanMLLM/R1-Omni)
 * [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V) ![R1-V Stars](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Report](https://deepagent.notion.site/rlvr-in-vlms)
 * [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1) ![EasyR1 Stars](https://img.shields.io/github/stars/hiyouga/EasyR1)
