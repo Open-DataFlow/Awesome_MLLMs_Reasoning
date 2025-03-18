@@ -27,11 +27,11 @@ In this repository, we will continuously update the latest papers, projects, and
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
 * [2503] [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought] (SkyWork AI) [Technical Report](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) [Model](https://huggingface.co/Skywork/Skywork-R1V-38B)
 
-* [2503] [QwQ-32B: Embracing the Power of Reinforcement Learning](Qwen Team) [Paper](https://qwenlm.github.io/blog/qwq-32b/) [Code](https://huggingface.co/Qwen/QwQ-32B)[Model](https://huggingface.co/Qwen/QwQ-32B-Preview)
+* [2503] [QwQ-32B: Embracing the Power of Reinforcement Learning](Qwen Team) [Technical Report](https://qwenlm.github.io/blog/qwq-32b/) [Code](https://huggingface.co/Qwen/QwQ-32B)[Model](https://huggingface.co/Qwen/QwQ-32B-Preview)
 
-* [2501] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](DeepSeek Team) [Paper](https://arxiv.org/pdf/2501.12948)
+* [2501] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](DeepSeek Team) [Technical Report](https://arxiv.org/pdf/2501.12948)
 
-* [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Paper](https://arxiv.org/pdf/2501.12599)
+* [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Technical Report](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training
 * [2503] [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](Shanghai AI Lab) [Paper](https://huggingface.co/papers/2503.10291) [Blog](https://internvl.github.io/blog/2025-03-13-VisualPRM/)
