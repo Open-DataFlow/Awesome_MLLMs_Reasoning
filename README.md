@@ -89,6 +89,8 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 * [2502] [Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning] (University of California, Riverside) [Paper](https://arxiv.org/pdf/2502.01616)
 * [2501] [InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2501.12368)
 * [2410] [TLDR: Token-Level Detective Reward Model for Large Vision Language Models] (Meta) [Paper](https://arxiv.org/pdf/2410.04734)
+* [2410] [FINE-GRAINED VERIFIERS: PREFERENCE MODELING AS NEXT-TOKEN PREDICTION IN VISION-LANGUAGE  ALIGNMENT] (NUS) [Paper](https://arxiv.org/abs/2410.14148)
+* [2410] [LLaVA-Critic: Learning to Evaluate Multimodal Models] (ByteDance) [Paper](https://arxiv.org/pdf/2410.02712) [Code](https://llava-vl.github.io/blog/2024-10-03-llava-critic/)
 
 ### 📊 6.Benchmarks
 * [2503] [How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game] (THU) [Paper](https://arxiv.org/pdf/2503.10042v1)
@@ -105,6 +107,7 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 [⬆️ Back to Top](#-table-of-contents)
 
 ## 🛠️ Open-Source Projects
+* [MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse] [Code](https://github.com/PzySeere/MetaSpatial) ![MetaSpatial Stars](https://img.shields.io/github/stars/PzySeere/MetaSpatial)
 * [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning] [Code](https://github.com/HumanMLLM/R1-Omni) ![R1-Omni Stars](https://img.shields.io/github/stars/HumanMLLM/R1-Omni)
 * [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] [Code](https://github.com/Deep-Agent/R1-V) ![R1-V Stars](https://img.shields.io/github/stars/Deep-Agent/R1-V) [Report](https://deepagent.notion.site/rlvr-in-vlms)
 * [EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework] [Code](https://github.com/hiyouga/EasyR1) ![EasyR1 Stars](https://img.shields.io/github/stars/hiyouga/EasyR1)
