@@ -5,7 +5,7 @@ In this repository, we will continuously update the latest papers, projects, and
 <!-- omit in toc -->
 ## 📢 Updates
 
-- **2025.03**: We released this repo. Feel free to open pull requests.
+- **2025.03**: We released this repo. Feel free to open [pull requests](https://github.com/Open-DataFlow/Awesome_MLLMs_Reasoning/pulls).
 
 <!-- omit in toc -->
 ## 📚 Table of Contents
