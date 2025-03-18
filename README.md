@@ -25,7 +25,9 @@ In this repository, we will continuously update the latest papers, projects, and
 
 ### 📝  1.Technical Report
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
-* [2503] [QwQ-32B: Embracing the Power of Reinforcement Learning](Qwen Team) [Paper](https://qwenlm.github.io/blog/qwq-32b/) [Code](https://huggingface.co/Qwen/QwQ-32B)
+* [2503] [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought] (SkyWork AI) [Technical Report](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) [Model](https://huggingface.co/Skywork/Skywork-R1V-38B)
+
+* [2503] [QwQ-32B: Embracing the Power of Reinforcement Learning](Qwen Team) [Paper](https://qwenlm.github.io/blog/qwq-32b/) [Code](https://huggingface.co/Qwen/QwQ-32B)[Model](https://huggingface.co/Qwen/QwQ-32B-Preview)
 
 * [2501] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](DeepSeek Team) [Paper](https://arxiv.org/pdf/2501.12948)
 
