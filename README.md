@@ -11,19 +11,19 @@ In this repository, we will continuously update the latest papers, projects, and
 ## 📚 Table of Contents
 - [Awesome_MLLMs_Reasoning](#-awesome_mllms_reasoning)
   - 
-  - [1.Technical Report](#-1technical-report)
-  - [2.Generated Data Guided Post-Training](#-2generated-data-guided-post-training)
-  - [3.Test-time Scaling](#-3test-time-scaling)
-  - [4.Collaborative Reasoning](#-4collaborative-reasoning)
-  - [5.MLLM Reward Model](#-5mllm-reward-model)
-  - [6.Benchmarks](#-6benchmarks)
+  - [1. Technical Report](#-1technical-report)
+  - [2. Generated Data Guided Post-Training](#-2generated-data-guided-post-training)
+  - [3. Test-time Scaling](#-3test-time-scaling)
+  - [4. Collaborative Reasoning](#-4collaborative-reasoning)
+  - [5. MLLM Reward Model](#-5mllm-reward-model)
+  - [6. Benchmarks](#-6benchmarks)
 - [Open-Source Projects](#️-open-source-projects)
 
 
 
 ## 📖 Papers
 
-### 📝  1.Technical Report
+### 📝  1. Technical Report
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
 * [2503] [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought] (SkyWork AI) [Technical Report](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) [Model](https://huggingface.co/Skywork/Skywork-R1V-38B)
 
@@ -33,7 +33,7 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Technical Report](https://arxiv.org/pdf/2501.12599)
 
-### 📌 2.Generated Data Guided Post-Training  
+### 📌 2. Generated Data Guided Post-Training  
 * [2503] [R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model] (UCLA) [Paper](https://arxiv.org/pdf/2503.05132) [Blog](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model) [Code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
   
 * [2503] [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models] (East China Normal University) [Paper](https://arxiv.org/pdf/2503.06749)
@@ -86,7 +86,7 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 
 [⬆️ Back to Top](#-table-of-contents)
 
-### 🚀 3.Test-time Scaling
+### 🚀 3. Test-time Scaling
 * [2502] [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking] (THU) [Paper](https://arxiv.org/pdf/2502.02339)
   
 * [2502] [MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs] (USC) [Paper](https://arxiv.org/pdf/2502.17422)
@@ -101,7 +101,7 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 
 [⬆️ Back to Top](#-table-of-contents)
 
-### 🚀 4.Collaborative Reasoning
+### 🚀 4. Collaborative Reasoning
 This kind of method aims to use small models(tool or visual expert) or multiple MLLMs to do collaborative reasoning.
 
 * [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension] (University of Maryland) [Paper](https://arxiv.org/pdf/2412.03704)
@@ -119,7 +119,7 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 [⬆️ Back to Top](#-table-of-contents)
 
 
-### 💰 5.MLLM Reward Model
+### 💰 5. MLLM Reward Model
 * [2503] [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](Shanghai AI Lab) [Paper](https://huggingface.co/papers/2503.10291) [Blog](https://internvl.github.io/blog/2025-03-13-VisualPRM/)
 
 * [2503] [Unified Reward Model for Multimodal Understanding and Generation] (Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2503.05236)
@@ -136,7 +136,7 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 
 [⬆️ Back to Top](#-table-of-contents)
 
-### 📊 6.Benchmarks
+### 📊 6. Benchmarks
 * [2503] [How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game] (THU) [Paper](https://arxiv.org/pdf/2503.10042v1)
   
 * [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models] (FAIR) [Paper](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)
