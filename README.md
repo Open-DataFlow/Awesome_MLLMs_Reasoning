@@ -27,6 +27,8 @@ In this repository, we will continuously update the latest papers, projects, and
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
 * [2503] [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought] (SkyWork AI) [Technical Report](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) [Model](https://huggingface.co/Skywork/Skywork-R1V-38B)
 
+* [2503] [Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs] (Microsoft) [Technical Report](https://arxiv.org/pdf/2503.01743)
+
 * [2503] [QwQ-32B: Embracing the Power of Reinforcement Learning](Qwen Team) [Technical Report](https://qwenlm.github.io/blog/qwq-32b/) [Code](https://huggingface.co/Qwen/QwQ-32B)[Model](https://huggingface.co/Qwen/QwQ-32B-Preview)
 
 * [2501] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](DeepSeek Team) [Technical Report](https://arxiv.org/pdf/2501.12948)
@@ -34,6 +36,8 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Technical Report](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training  
+* [2503] [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization] (NTU) [Paper](https://arxiv.org/pdf/2503.12937)
+
 * [2503] [R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model] (UCLA) [Paper](https://arxiv.org/pdf/2503.05132) [Blog](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model) [Code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
   
 * [2503] [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models] (East China Normal University) [Paper](https://arxiv.org/pdf/2503.06749)
@@ -137,6 +141,8 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 [⬆️ Back to Top](#-table-of-contents)
 
 ### 📊 6.Benchmarks
+* [2503] [reWordBench: Benchmarking and Improving the Robustness of Reward Models with Transformed Inputs] (Meta) [Paper](https://arxiv.org/pdf/2503.11751)
+
 * [2503] [How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game] (THU) [Paper](https://arxiv.org/pdf/2503.10042v1)
   
 * [2502] [Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models] (FAIR) [Paper](https://arxiv.org/pdf/2502.14191) [Code](https://github.com/facebookresearch/multimodal_rewardbench)
