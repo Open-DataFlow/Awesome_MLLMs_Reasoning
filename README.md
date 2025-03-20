@@ -163,6 +163,9 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
   
 * [2312] [(V∗Bench) V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs] (UCSD) [Paper](https://arxiv.org/pdf/2312.14135)
 
+### 7.Applications
+* [2503] [Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models] (Emory University) [Paper](https://arxiv.org/pdf/2503.13939)
+
 [⬆️ Back to Top](#-table-of-contents)
 
 ## 🛠️ Open-Source Projects
