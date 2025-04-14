@@ -26,6 +26,7 @@ In this repository, we will continuously update the latest papers, projects, and
 
 ### 📝  1.Technical Report
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
+
 * [2503] [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought] (SkyWork AI) [Technical Report](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) [Model](https://huggingface.co/Skywork/Skywork-R1V-38B)
 
 * [2503] [Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs] (Microsoft) [Technical Report](https://arxiv.org/pdf/2503.01743)
