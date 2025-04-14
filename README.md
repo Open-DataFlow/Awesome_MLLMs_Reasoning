@@ -37,6 +37,8 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Technical Report](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training  
+*[2504][Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning] (PKU) [Paper](https://arxiv.org/abs/2503.20752)
+
 * [2503] [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization] (NTU) [Paper](https://arxiv.org/pdf/2503.12937)
 
 * [2503] [R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model] (UCLA) [Paper](https://arxiv.org/pdf/2503.05132) [Blog](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model) [Code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
