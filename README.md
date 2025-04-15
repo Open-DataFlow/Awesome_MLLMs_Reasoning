@@ -26,6 +26,8 @@ In this repository, we will continuously update the latest papers, projects, and
 
 ### 📝  1.Technical Report
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
+* [2504] [Kimi-VL Technical Report](Kimi Team) [Technical Report](https://arxiv.org/pdf/2504.07491)
+  
 * [2503] [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought] (SkyWork AI) [Technical Report](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) [Model](https://huggingface.co/Skywork/Skywork-R1V-38B)
 
 * [2503] [Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs] (Microsoft) [Technical Report](https://arxiv.org/pdf/2503.01743)
@@ -37,6 +39,8 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi Team) [Technical Report](https://arxiv.org/pdf/2501.12599)
 
 ### 📌 2.Generated Data Guided Post-Training  
+* [2504][SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement] (University of Maryland) [Paper](https://arxiv.org/pdf/2504.07934)
+
 * [2503][Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning] (PKU) [Paper](https://arxiv.org/abs/2503.20752)
 
 * [2503] [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization] (NTU) [Paper](https://arxiv.org/pdf/2503.12937)
@@ -144,6 +148,8 @@ This kind of method aims to use small models(tool or visual expert) or multiple 
 [⬆️ Back to Top](#-table-of-contents)
 
 ### 📊 6.Benchmarks
+* [2503] [CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation] (CMU) [Paper](https://arxiv.org/pdf/2504.00043)
+
 * [2503] [reWordBench: Benchmarking and Improving the Robustness of Reward Models with Transformed Inputs] (Meta) [Paper](https://arxiv.org/pdf/2503.11751)
 
 * [2503] [How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game] (THU) [Paper](https://arxiv.org/pdf/2503.10042v1)
