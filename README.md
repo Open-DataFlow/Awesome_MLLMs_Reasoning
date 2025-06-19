@@ -115,6 +115,8 @@ We also feature some well-known technical reports on Large Language Models (LLMs
 ### 🚀 4.Collaborative Reasoning
 This kind of method aims to use small models(tool or visual expert) or multiple MLLMs to do collaborative reasoning.
 
+* [2505] [Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification] (PKU & USTHK & Shanghai AI Lab) [Paper](https://arxiv.org/pdf/2506.07235) [Homepage](https://vts-v.github.io/) [Code](https://github.com/Open-DataFlow/vts-v)
+
 * [2412] [Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension] (University of Maryland) [Paper](https://arxiv.org/pdf/2412.03704)
   
 * [2410] [VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use] (Dartmouth College) [Paper](https://arxiv.org/pdf/2410.16400)
