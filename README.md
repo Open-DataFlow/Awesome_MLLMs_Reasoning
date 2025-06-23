@@ -26,7 +26,7 @@ In this repository, we will continuously update the latest papers, projects, and
 
 ### 📝  1.Technical Report
 We also feature some well-known technical reports on Large Language Models (LLMs) reasoning.
-* [2504] [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](MiniMax Team) [Technical Report](https://arxiv.org/pdf/2506.13585)
+* [2506] [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](MiniMax Team) [Technical Report](https://arxiv.org/pdf/2506.13585)
 
 * [2504] [Kimi-VL Technical Report](Kimi Team) [Technical Report](https://arxiv.org/pdf/2504.07491)
   
